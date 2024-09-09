@@ -21,19 +21,19 @@ To use this implementation to reproduce Examples 6.1and 6.2, simply import the c
 The VI formulation in Example 6.1.
 
 ### [exp1_starting_point_NM.json](src/exp1_starting_point_NM.json)
-The starting point for solving the normal map equation system in Example~6.1.
+The starting point for solving the normal map equation system in Example 6.1.
 
 ### [exp2_input.py](src/exp2_input.py)
 The VI formulation in Example 6.2.
 
 ### [exp2_starting_point_NM.json](src/exp2_starting_point_NM.json)
-A list of the starting points for solving the normal map equation system in Example~6.2.
+A list of the starting points for solving the normal map equation system in Example 6.2.
 
 ### [exp2_starting_point_VI.json](src/exp2_starting_point_VI.json)
-A list of the starting points for solving the VI's KKT system using the PATH solver in Example~6.2.
+A list of the starting points for solving the VI's KKT system using the PATH solver in Example 6.2.
 
 ### [exp2_by_PATH.py](src/exp2_by_PATH.py)
-The code for solving the VI's KKT system using the PATH solver in Example~6.2.
+The code for solving the VI's KKT system using the PATH solver in Example 6.2.
 
 ## References
 
