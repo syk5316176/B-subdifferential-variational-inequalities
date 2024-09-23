@@ -2,7 +2,7 @@
 
 This is the python proof-of-concept implementation of our accompanying article
 
-> Y. Song, P.I. Barton, New Generalized Derivatives for Solving Variational Inequalities Using the Nonsmooth Newton Methods, in review.
+> Y. Song, P.I. Barton, New Generalized Derivatives for Solving Variational Inequalities Using the Nonsmooth Newton Methods, *Journal of Optimization Theory and Applications*, accepted.
 
 In this work, we propose a new method for furnishing B-subdifferential elements of the normal map associated with a variation inequality (VI) problem. Then, the normal map equation system can be solved using variants of the nonsmooth Newton methods. This work was supported by the OCP Group, Morroco.
 
